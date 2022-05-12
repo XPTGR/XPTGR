@@ -1,7 +1,7 @@
 <p align='center'>
   <b>Hi 👋, I'm XPTGR</b><br>
-  <a href="https://dsc.gg/xptgr">Discord</a> |
-  <a href="https://dsc.gg/hxrty">Hxrty</a> |
+  <a href="https://www.instagram.com/xptgr">Instagram</a> |
+  <a href="https://ideo.capital">Ideo Capital</a> |
   <a href="https://twitter.com/XPTGRDev">Twitter</a>
 </p>
 
